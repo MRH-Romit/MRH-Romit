@@ -13,21 +13,21 @@ I am a student of  United International University studying Computer Science and
 
 ## 🌐 Socials
 
-- 🔗 **Discord** - **@Ashfi**
+- 🔗 **Discord** - **@broomdeity**
 
-- 🍿 **Anilist** - [_Ashfin_](https://anilist.co/user/Redain/)
+- 🍿 **Anilist** - [_Redain_](https://anilist.co/user/Redain/)
 
-- 🎵 **Last.FM** - [ Ashfin ]((https://www.last.fm/user/Redai9))
+- 🎵 **Last.FM** - [ Redai9 ](https://www.last.fm/user/Redai9)
 
-- 🌐 **Codewars** - [_Ashfin_](https://www.codewars.com/users/Ashfin) <img src="https://www.codewars.com/users/Ashfin/badges/micro" alt="codewars-badge" align="right">
+- 🌐 **Codewars** - [_Mrh-Romit_](https://www.codewars.com/users/Mrh-Romit) <img src="https://www.codewars.com/users/Mrh-Romit/badges/micro" alt="codewars-badge" align="right">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31okab2nfcmud3qjrxkhzbvhpyim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashfinn&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mrh-Romit&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mrh-Romit&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrh-Romit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

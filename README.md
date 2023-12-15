@@ -1,6 +1,6 @@
 # Redwan Hossain Romit
 
-I am a student of  United International University studying Computer Science and engineering. I want to ba an aspiring computer scientist pursuing my career in the technology world. Let's cross finger for the best result.
+I am a student at  United International University studying Computer Science and Engineering. I want to be an aspiring computer scientist pursuing a career in the technology world. Let's cross fingers for the best result.
 
 ## 🧰 Languages and Tools
 

@@ -1,6 +1,5 @@
-# Redwan Hossain Romit
-
-I am a student at  United International University studying Computer Science and Engineering. I want to be an aspiring computer scientist pursuing a career in the technology world. Let's cross fingers for the best result.
+<h1 align="center">Hi 👋, I'm Redwan Hossain Romit</h1>
+<h3 align="center">I am a student at United International University studying Computer Science and Engineering. I want to be an aspiring computer scientist pursuing a career in the technology world. Let's cross fingers for the best </h3>
 
 ## 🧰 Languages and Tools
 
@@ -30,7 +29,24 @@ I am a student at  United International University studying Computer Science and
 
 ## 🌐 Socials
 
-- 🔗 **Discord** - **@broomdeity**
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mrhromit/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="redain69" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="broomdeity" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/mrh.romit" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
 
 - 🍿 **Anilist** - [_Redain_](https://anilist.co/user/Redain/)
 
@@ -49,6 +65,12 @@ I am a student at  United International University studying Computer Science and
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashfinn&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrh-romit&label=Profile%20views&color=0e75b6&style=flat" alt="mrh-romit" /> </p>
+
+
+
+
+
+
+

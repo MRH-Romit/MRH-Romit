@@ -7,6 +7,8 @@ I am a student at  United International University studying Computer Science and
 <p align="center">
   <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   &nbsp;&nbsp;
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" />
+  &nbsp;&nbsp;
   <img alt="MATLAB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   &nbsp;&nbsp;
   <img alt="Mathematica" width="40px" src="https://www.wolfram.com/common/framework/img/spikey.en.png" />

@@ -52,8 +52,6 @@
 
 - 🎵 **Last.FM** - [ Redai9 ](https://www.last.fm/user/Redai9)
 
-- 🌐 **Codewars** - [_Mrh-Romit_](https://www.codewars.com/users/Mrh-Romit) <img src="https://www.codewars.com/users/Mrh-Romit/badges/micro" alt="codewars-badge" align="right">
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31okab2nfcmud3qjrxkhzbvhpyim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
 

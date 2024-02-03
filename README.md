@@ -46,15 +46,6 @@
   </a>
 </div>
 
-###
-
-- 🍿 **Anilist** - [_Redain_](https://anilist.co/user/Redain/)
-
-- 🎵 **Last.FM** - [ Redai9 ](https://www.last.fm/user/Redai9)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31okab2nfcmud3qjrxkhzbvhpyim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
- 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mrh-Romit&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mrh-Romit&theme=radical&hide_border=true)<br/>
@@ -65,6 +56,19 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrh-romit&label=Profile%20views&color=0e75b6&style=flat" alt="mrh-romit" /> </p>
+
+
+
+###
+
+- 🍿 **Anilist** - [_Redain_](https://anilist.co/user/Redain/)
+
+- 🎵 **Last.FM** - [ Redai9 ](https://www.last.fm/user/Redai9)
+
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31okab2nfcmud3qjrxkhzbvhpyim&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ 
+
 
 
 

@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Redwan Hossain Romit</h1>
+<!-- Redwan Hossain Romit -->
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=2000&color=A9A9FE&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Redwan+Hossain+Romit+and+Welcome+to+my+Profile!" alt="Hey, I'm Redwan Hossain Romit and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+
+<br><br>
+
+  
 <h3 align="center">I am a student at United International University studying Computer Science and Engineering. I want to be an aspiring computer scientist pursuing a career in the technology world. Let's cross fingers for the best </h3>
 
 ## 🧰 Languages and Tools

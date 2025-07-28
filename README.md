@@ -15,13 +15,16 @@
 
 ---
 
-
-<p align="center">
+<p align = "left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Romit&theme=github_dark&hide_border=true&text_color=gray" />
+<br />
+  
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrh-Romit&theme=github_dark" />
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mrh-Romit&theme=github_dark&hide_border=true&text_color=gray" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrh-Romit&theme=github_dark&hide_border=true&text_color=gray" />
+
+
   
   
 </p>

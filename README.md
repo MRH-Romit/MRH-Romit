@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=4th+Year+CSE+Undergrad+%40+UIU;Robotics+Sub-Team+Lead+%7C+Open+Source+Contributor;Building+Secure+Systems+%26+ML+Models;Django+Developer+%26+Network+Enthusiast" alt="Typing animation" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrh-romit&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=4th+Year+CSE+Undergrad+%40+UIU;Mechanical+Sub-Team+Lead+%7C+UIU+Underwater+Robotics;Building+Secure+Systems+%26+ML+Models;Django+Developer+%26+Network+Enthusiast" alt="Typing animation" />
 </div>
 
 <br/>
@@ -15,25 +9,10 @@
     Developing <span style="color: #58A6FF;">Intelligence</span>, Securing <span style="color: #58A6FF;">Networks</span>, Engineering <span style="color: #58A6FF;">Hardware</span>.
   </h3>
   <p align="center" style="max-width: 600px;">
-    I am a specialized engineer focusing on the intersection of <b>Cybersecurity</b>, <b>Machine Learning</b>, and <b>IoT</b>. <br> 
-    Currently, I am leading the R&D for the 2026 World Championship ROV at UIU and building secure backend architectures with <b>Django</b>. My passion lies in bridging the gap between raw hardware data and intelligent software decision-making.
+    I am a Computer Science undergraduate with a unique specialized role as the <b>Mechanical Sub-Team Lead</b> for the <b>UIU Underwater Robotics</b> team (MATE ROV 2026).
+    <br><br>
+    My technical expertise centers on <b>Django Backend Development</b>, <b>Network Security</b>, and <b>Machine Learning</b>. I enjoy combining software logic with mechanical engineering constraints to build robust, real-world systems.
   </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrh-romit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrh-romit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="160" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrh-romit&theme=tokyonight&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" height="160" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrh-romit&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
 <br/>
